@@ -9,5 +9,3 @@ const array = [1, 3, 5, 6];
 const double = x => x * 2;
 
 array.map(double);
-
-// what is this
